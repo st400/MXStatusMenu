@@ -1,5 +1,9 @@
 MXStatusMenu shows the cpu and network load in the menubar of OS X similar to [iStatMenus](http://bjango.com/mac/istatmenus/). Written in Swift.
 
+![][screenshot]
+
+[screenshot]: MXStatusMenu.png "Screenshot of MXStatusMenu" height=127px width=407px
+
 # Details
 
 * Implements the menubar item using `NSStatusBar` and a `NSView` with a dynamic width
